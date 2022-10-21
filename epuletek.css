@@ -1,0 +1,51 @@
+body{
+    background-image: linear-gradient( #7db9e8,#1e5799 )
+}
+
+div{
+    display: flex;
+}
+
+table{
+    flex: 1;
+    float: left;
+    border: 1px solid orange;
+    padding: 20px;
+    margin: 20px;
+    background-image: linear-gradient( #ff7f50,#ffdead );
+}
+
+h1{
+    color: #2f4f4f;
+    font-family: Georgia;
+    font-size: 16pt;
+}
+
+th{
+    color:#2f4f4f;
+}
+
+img{
+    border-radius: 8%;
+    width: 160px;
+}
+
+h2{
+    font-family: Arial;
+    font-size: 12pt;
+    border-bottom: 2px dotted;
+    text-align: center;
+}
+
+p{
+    font-family: Georgia;
+}
+
+tr, th, td{
+    font-family: Arial;
+    text-align: center;
+}
+
+tr, th{
+    text-align: justify
+}
